@@ -1,1 +1,1 @@
-web: gunicorn HireOnBoard.wsgi --log-file -
+web: gunicorn Employeeform.wsgi --log-file -
